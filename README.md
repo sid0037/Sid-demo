@@ -1,2 +1,2 @@
 # Sid-demo
-First repository 
+First repository (hello world)
